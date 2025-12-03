@@ -1,5 +1,5 @@
 h1 {
-opacity: 0;
+opacity: 1;
 color: red;
 
 }
@@ -8,3 +8,11 @@ color: rgb(51, 153, 76);
 text-align: center;
 font-weight: bold;
 }
+
+#sariq {
+    color: blue;
+}
+.salom {
+    color: brown;
+}
+
